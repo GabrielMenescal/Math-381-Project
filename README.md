@@ -1,5 +1,6 @@
 # Math-381-Project
-Repo containing the code and data used by myself (Gabriel Menescal), Taylor Merry and Justin Ngo for our Math 381 project
+Repo containing the code written by myself (Gabriel Menescal), Taylor Merry and Justin Ngo for our Math 381 project.
+The file containing the code is: Final Project Notebook.ipynb
 
 ### How-to (MAC):
 1) Go-to: https://www.anaconda.com/download/#macos
