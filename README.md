@@ -3,4 +3,4 @@ Repo containing the code written by myself (Gabriel Menescal), Taylor Merry and 
 The file containing the code is: Final Project Notebook.ipynb
 
 ### How-to:
-See our file Intalling-Python-Notebook.pdf to see how to use the notebook
+See our file Installing-Python-Notebook.pdf to see how to use the notebook
