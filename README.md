@@ -6,5 +6,5 @@ Repo containing the code and data used by myself (Gabriel Menescal), Taylor Merr
 2) Download and install anaconda for python 3.7
 3) Open the application Terminal
 4) Type out the following commands (press enter after each)
-    conda install turicreate
+  - conda install turicreate
 5) You should be ready to use the python notebook
